@@ -1,0 +1,12 @@
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\bin\Debug\netcoreapp3.1\ProblemSolve2.exe
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\bin\Debug\netcoreapp3.1\ProblemSolve2.deps.json
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\bin\Debug\netcoreapp3.1\ProblemSolve2.runtimeconfig.json
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\bin\Debug\netcoreapp3.1\ProblemSolve2.runtimeconfig.dev.json
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\bin\Debug\netcoreapp3.1\ProblemSolve2.dll
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\bin\Debug\netcoreapp3.1\ProblemSolve2.pdb
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\obj\Debug\netcoreapp3.1\ProblemSolve2.AssemblyInfoInputs.cache
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\obj\Debug\netcoreapp3.1\ProblemSolve2.AssemblyInfo.cs
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\obj\Debug\netcoreapp3.1\ProblemSolve2.csproj.CoreCompileInputs.cache
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\obj\Debug\netcoreapp3.1\ProblemSolve2.dll
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\obj\Debug\netcoreapp3.1\ProblemSolve2.pdb
+H:\8th Semester Course\C#Lab2\ProblemSolve2\ProblemSolve2\obj\Debug\netcoreapp3.1\ProblemSolve2.genruntimeconfig.cache
